@@ -59,89 +59,89 @@
             "name": "Program1",
             "title": "Program1",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Type_project1",
             "title": "Type Project1",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Project1",
             "title": "Project1",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Type_project2",
             "title": "Type Project2",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Project2",
             "title": "Project2",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Function1",
             "title": "Function1",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Function2",
             "title": "Function2",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Function3",
             "title": "Function3",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Geo1",
             "title": "Geo1",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Geo2",
             "title": "Geo2",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Geo3",
             "title": "Geo3",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Source_Fin2",
             "title": "Source Fin2",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
-            "name": "Source_FIn3",
-            "title": "Source F In3",
+            "name": "Source_Fin3",
+            "title": "Source Fin3",
             "description": "",
             "type": "string",
             "format": "default"
@@ -150,49 +150,49 @@
             "name": "Econ1",
             "title": "Econ1",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Econ2",
             "title": "Econ2",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Econ3",
             "title": "Econ3",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Econ4",
             "title": "Econ4",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Econ5",
             "title": "Econ5",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Econ6",
             "title": "Econ6",
             "description": "",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Approved",
             "title": "Approved",
             "description": "",
-            "type": "number",
+            "type": "integer",
             "format": "default"
           },
           {
