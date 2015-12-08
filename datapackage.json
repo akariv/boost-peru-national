@@ -10,6 +10,7 @@
   },
   "countryCode": "PE",
   "title": "peru-boost-nacional-2012-2014-truncated",
+  "base": "data",
   "resources": [
     {
       "name": "peru-boost-nacional-2012-2014-truncated",
