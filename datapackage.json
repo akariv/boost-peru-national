@@ -241,7 +241,8 @@
               "resource": "peru-boost-nacional-2012-2014-truncated"
             }
           }
-        ]
+        ],
+        "primaryKey": "Year"
       },
       "administrative-classification": {
         "dimensionType": "classification",
@@ -260,8 +261,8 @@
             }
           },
           {
-            "Admin2": {
-              "source": "Admin2",
+            "Admin3": {
+              "source": "Admin3",
               "resource": "peru-boost-nacional-2012-2014-truncated"
             }
           },
@@ -271,7 +272,8 @@
               "resource": "peru-boost-nacional-2012-2014-truncated"
             }
           }
-        ]
+        ],
+        "primaryKey": ["Admin1","Admin2","Admin3","Admin4"]
       },
       "program-1": {
         "dimensionType": "activity",
@@ -282,7 +284,8 @@
               "resource": "peru-boost-nacional-2012-2014-truncated"
             }
           }
-        ]
+        ],
+        "primaryKey": "Program1"
       },
       "project-1": {
         "dimensionType": "activity",
@@ -299,7 +302,8 @@
               "resource": "peru-boost-nacional-2012-2014-truncated"
             }
           }
-        ]
+        ],
+        "primaryKey": "Project1"
       },
       "project-2": {
         "dimensionType": "activity",
@@ -316,7 +320,8 @@
               "resource": "peru-boost-nacional-2012-2014-truncated"
             }
           }
-        ]
+        ],
+        "primaryKey": "Project2"
       },
       "functional-classification": {
         "dimensionType": "classification",
@@ -340,7 +345,8 @@
               "resource": "peru-boost-nacional-2012-2014-truncated"
             }
           }
-        ]
+        ],
+        "primaryKey": ["Function1","Function2","Function3"]
       },
       "location": {
         "dimensionType": "location",
@@ -363,7 +369,8 @@
               "resource": "peru-boost-nacional-2012-2014-truncated"
             }
           }
-        ]
+        ],
+        "primaryKey": ["Geo1","Geo2","Geo3"]
       },
       "financial-source": {
         "attributes": [
@@ -374,12 +381,13 @@
             }
           },
           {
-            "Source_FIn3": {
-              "source": "Source_FIn3",
+            "Source_Fin3": {
+              "source": "Source_Fin3",
               "resource": "peru-boost-nacional-2012-2014-truncated"
             }
           }
-        ]
+        ],
+        "primaryKey": ["Source_Fin2","Source_Fin3"]
       },
       "economic-classification": {
         "dimensionType": "classification",
@@ -421,7 +429,8 @@
               "resource": "peru-boost-nacional-2012-2014-truncated"
             }
           }
-        ]
+        ],
+        "primaryKey": ["Econ1","Econ2","Econ3","Econ4","Econ5","Econ6"]
       }
     }
   }
