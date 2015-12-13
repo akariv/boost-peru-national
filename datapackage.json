@@ -10,12 +10,11 @@
   },
   "countryCode": "PE",
   "title": "peru-boost-nacional-2012-2014-truncated",
-  "base": "data",
   "resources": [
     {
       "name": "peru-boost-nacional-2012-2014-truncated",
       "format": "csv",
-      "path": "peru-boost-nacional-2012-2014-truncated.csv",
+      "path": "data/peru-boost-nacional-2012-2014-truncated.csv",
       "mediatype": "text/csv",
       "bytes": 14192107,
       "schema": {
@@ -42,8 +41,8 @@
             "format": "default"
           },
           {
-            "name": "Admin2",
-            "title": "Admin2",
+            "name": "Admin3",
+            "title": "Admin3",
             "description": "",
             "type": "string",
             "format": "default"
